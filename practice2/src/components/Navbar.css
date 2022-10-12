@@ -1,0 +1,8 @@
+.nav a{
+    margin: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.active{
+    background-color: lightseagreen;
+}

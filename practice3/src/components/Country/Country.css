@@ -1,0 +1,10 @@
+.country{
+    background-color: lightseagreen;
+    padding-bottom: 1rem;
+    border-radius: 5px;
+    color: #fff;
+}
+.country button{
+    padding: 5px 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.header a{
+    text-decoration: none;
+    margin: 20px;
+    display: inline-block;
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #000;
+}
